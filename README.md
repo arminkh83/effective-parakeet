@@ -1,2 +1,0 @@
-# effective-parakeet
-wellcome
